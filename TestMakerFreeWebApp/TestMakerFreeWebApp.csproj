@@ -34,6 +34,7 @@
 
   <ItemGroup>
     <None Remove="ClientApp\src\app\components\about\about.component.ts" />
+    <None Remove="ClientApp\src\app\components\answer\answer-list.component.ts" />
     <None Remove="ClientApp\src\app\components\login\login.component.ts" />
     <None Remove="ClientApp\src\app\components\pagenotfound.component.ts" />
     <None Remove="ClientApp\src\app\components\question\question-edit.component.ts" />
@@ -41,6 +42,8 @@
     <None Remove="ClientApp\src\app\components\quiz\quiz-edit.component.ts" />
     <None Remove="ClientApp\src\app\components\quiz\quiz-list.component.ts" />
     <None Remove="ClientApp\src\app\components\quiz\quiz.component.ts" />
+    <None Remove="ClientApp\src\app\components\result\result-edit.component.ts" />
+    <None Remove="ClientApp\src\app\components\result\result-list.component.ts" />
     <None Remove="ClientApp\src\app\interfaces\answer.ts" />
     <None Remove="ClientApp\src\app\interfaces\question.ts" />
     <None Remove="ClientApp\src\app\interfaces\quiz.ts" />
@@ -49,6 +52,7 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="ClientApp\src\app\components\about\about.component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\components\answer\answer-list.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\components\login\login.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\components\pagenotfound\pagenotfound.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\components\question\question-edit.component.ts" />
@@ -56,6 +60,8 @@
     <TypeScriptCompile Include="ClientApp\src\app\components\quiz\quiz-edit.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\components\quiz\quiz-list.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\components\quiz\quiz.component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\components\result\result-edit.component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\components\result\result-list.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\interfaces\answer.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\interfaces\question.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\interfaces\quiz.ts" />
