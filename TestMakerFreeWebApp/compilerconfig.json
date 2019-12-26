@@ -46,5 +46,9 @@
   {
     "outputFile": "ClientApp/src/app/nav-menu/nav-menu.component.css",
     "inputFile": "ClientApp/src/app/nav-menu/nav-menu.component.less"
+  },
+  {
+    "outputFile": "ClientApp/src/app/components/quiz/quiz-search.component.css",
+    "inputFile": "ClientApp/src/app/components/quiz/quiz-search.component.less"
   }
 ]
